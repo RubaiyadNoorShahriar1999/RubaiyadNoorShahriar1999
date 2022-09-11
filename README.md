@@ -1,4 +1,4 @@
-![MasterHead](https://i.ytimg.com/vi/1n6dTV5vjso/maxresdefault.jpg)
+![MasterHead align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hola Amigo, I'm ✨TYSON✨</h1>
 <h3 align="center">I seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem-solving skills. My objective is to pursue a dynamic career life as a professional Data Scientist. And by the way, I am a ASP.NET Core developer 😁</h3>
 
