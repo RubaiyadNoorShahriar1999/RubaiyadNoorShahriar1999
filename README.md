@@ -2,8 +2,7 @@
 <h1 align="center">Hola Amigo, I'm ✨TYSON✨</h1>
 <h3 align="center">I seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem-solving skills. My objective is to pursue a dynamic career life as a professional Data Scientist. And by the way, I am a ASP.NET Core developer 😁</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
