@@ -43,5 +43,5 @@
 
 <h3 align="left">Overview:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en" alt="rubaiyadnoorshahriar1999" /></p>
+<p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en" alt="rubaiyadnoorshahriar1999" /></p>
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" /> </p>
