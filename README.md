@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 - 🔭 I’m currently working on **my ASP.NET Core skill development**
 
 - 🌱 I’m currently learning **React JS and Node JS**
