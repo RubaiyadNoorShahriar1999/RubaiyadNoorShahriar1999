@@ -5,7 +5,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">
 
 - 🔭 I’m currently working on **my ASP.NET Core skill development**
 
@@ -43,9 +43,9 @@
 
 <div align="center">
 <h3 align="center">Overview:</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" width="41%" /></p>
 <p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en" alt="rubaiyadnoorshahriar1999" /></p>
-<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" /> </p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" width="90%" /> </p>
 </div>
 
 <br>
