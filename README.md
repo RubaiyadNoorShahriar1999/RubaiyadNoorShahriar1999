@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning Python libraries**
 
-- 👨‍💻 All of my projects are available at [RubaiyadNoorShahriar1999](RubaiyadNoorShahriar1999)
+- 👨‍💻 All of my projects are available at [RubaiyadNoorShahriar1999](https://github.com/RubaiyadNoorShahriar1999)
 
 - 💬 Ask me about **Career Plans**
 
