@@ -59,7 +59,7 @@
 <p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en" alt="rubaiyadnoorshahriar1999" width="50%" /></p>
 </div>-->
 <div align="center">
-<p>&nbsp;<img align="center"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=github_dark" alt="rubaiyadnoorshahriar1999" width="40%" /></p>
+<p>&nbsp;<img align="center"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=github" alt="rubaiyadnoorshahriar1999" width="40%" /></p>
 </div>
 
 
