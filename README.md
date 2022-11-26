@@ -2,10 +2,11 @@
 <h1 align="center">𝙃𝙤𝙡𝙖 𝘼𝙢𝙞𝙜𝙤, 𝙄'𝙢 ✨𝙃𝙍𝙄𝘿𝙊𝙔✨</h1>
 <h3 align="center">⚡ I seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem-solving skills. My objective is to pursue a dynamic career life as a professional Data Scientist. And by the way, I plan to be an ASP.NET Core developer ⚡</h3>
 
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">
+<img align="right" alt="Coding" width="470" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="40%">
+
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
+<!--<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">-->
 
 - 🔭 I’m currently working on **my ASP.NET Core skill development**
 
