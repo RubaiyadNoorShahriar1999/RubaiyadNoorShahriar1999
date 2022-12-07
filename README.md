@@ -3,20 +3,14 @@
 <h3 align="center">⚡My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS.⚡</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%">
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 <!--<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">-->
 
-- 🔭 I’m currently working on **my ASP.NET Core skill development**
-
-- 🌱 I’m currently learning **React JS and Node JS**
+- 🔭 I’m currently working on **my ASP.NET Core skill development** and learning **React JS and Node JS**
 
 - 👯 I’m looking to collaborate on **React JS through GitHub**
-
-- 🤝 I’m looking for help with **Machine Learning Python libraries**
-
-- 👨‍💻 All of my projects are available at [RubaiyadNoorShahriar1999](https://github.com/RubaiyadNoorShahriar1999)
 
 - 💬 Ask me about **Career Plans**
 
@@ -27,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rubaiyad noor shahriar hridoy](https://www.linkedin.com/in/rubaiyad-noor-shahriar-hridoy-375a81178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubaiyad noor shahriar hridoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rubaiyad noor shahriar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rubaiyad noor shahriar" height="30" width="40" /></a>
 <a href="https://fb.com/rubaiyad noor shahriar (hridoy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubaiyad noor shahriar (hridoy)" height="30" width="40" /></a>
 <a href="https://instagram.com/rubaiyad_noor_shahriar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubaiyad_noor_shahriar007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rubaiyadnoorshahriar9822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rubaiyadnoorshahriar9822" height="30" width="40" /></a>
@@ -54,9 +47,12 @@
 <!--<div align="center">
 <p>&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=rubaiyadnoorshahriar1999&theme=github_dark&show_icons=true&locale=en" alt="rubaiyadnoorshahriar1999" width="50%" /></p>
 </div>-->
+<!--<p>&nbsp;<img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical" alt="rubaiyadnoorshahriar1999" width="30%" /></p>-->
 
-<p>&nbsp;<img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical" alt="rubaiyadnoorshahriar1999" width="40%" /></p>
-<a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<div align="center">
+<a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical"></a>
+<a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+</div>
 
 <!--<a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical"></a>-->
 
