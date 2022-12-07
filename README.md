@@ -3,7 +3,7 @@
 <h3 align="center">⚡My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS.⚡</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%">
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 <!--<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">-->
@@ -24,7 +24,6 @@
 <a href="https://fb.com/rubaiyad noor shahriar (hridoy)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rubaiyad noor shahriar (hridoy)" height="30" width="40" /></a>
 <a href="https://instagram.com/rubaiyad_noor_shahriar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubaiyad_noor_shahriar007" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rubaiyadnoorshahriar9822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rubaiyadnoorshahriar9822" height="30" width="40" /></a>
-<a href="https://discord.gg/! ! 𝙀𝙌𝙐𝙄𝙉𝙊𝙓#3146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="! ! 𝙀𝙌𝙐𝙄𝙉𝙊𝙓#3146" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
