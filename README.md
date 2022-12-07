@@ -56,9 +56,9 @@
 </div>-->
 
 <p>&nbsp;<img align="left"src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical" alt="rubaiyadnoorshahriar1999" width="40%" /></p>
- <a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-
+<!--<a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical"></a>-->
 
 <br>
 <div align="center">
