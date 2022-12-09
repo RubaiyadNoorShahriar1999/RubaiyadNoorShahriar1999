@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **my ASP.NET Core skill development** and learning **React JS and Node JS**
 
-<!--- 👯 I’m looking to collaborate on **React JS through GitHub** -->
+- 👯 I’m looking to collaborate on **React JS through GitHub**
 
 - 💬 Ask me about **Career Plans**
 
