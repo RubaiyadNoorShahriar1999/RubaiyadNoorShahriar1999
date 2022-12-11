@@ -2,9 +2,9 @@
 <h1 align="center">𝙃𝙤𝙡𝙖 𝘼𝙢𝙞𝙜𝙤, 𝙄'𝙢 ✨𝙃𝙍𝙄𝘿𝙊𝙔✨</h1>
 <h3 align="center">⚡My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS.⚡</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="60%">
 
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"><p align="center">
 
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>-->
 <!--<img align="right" alt="Coding" width="470" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="40%">-->
