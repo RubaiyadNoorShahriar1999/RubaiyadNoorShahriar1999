@@ -29,7 +29,7 @@
 <h3 align="center">Overview:</h3>
 
 <details>
-<summary><strong>Github Stats<strong>⚡</summary>
+<summary><h2><strong>Github Stats<strong></h2> 👩‍💻</summary>
 <div align="center">
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=radical&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" width="70%" /> </p>
 </div>
