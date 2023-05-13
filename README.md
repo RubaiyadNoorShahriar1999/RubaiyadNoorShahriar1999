@@ -28,14 +28,17 @@
 <div align="center">
 <h3 align="center">Overview:</h3>
 
+<details>
+<summary><strong>Github Stats<strong>⚡</summary>
 <div align="center">
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=radical&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" width="70%" /> </p>
 </div>
-
 <div align="center">
 <a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical"></a>
 <a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 </div>
+</details>
+
 
 <br>
 <div align="center">
