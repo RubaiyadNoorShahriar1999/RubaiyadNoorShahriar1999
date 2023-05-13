@@ -1,33 +1,28 @@
 ![MasterHead align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">𝙃𝙤𝙡𝙖 𝘼𝙢𝙞𝙜𝙤, 𝙄'𝙢 ✨𝙃𝙍𝙄𝘿𝙊𝙔✨</h1>
-<h3 align="center">⚡My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS.⚡</h3>
+<h3 align="center">-- My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS --</h3>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"><p align="center">
-
-- 🔭 I’m currently working on **my ASP.NET Core skill development** and learning **React JS and Node JS**
-
-- 👯 I’m looking to collaborate on **React JS through GitHub**
-
-- 💬 Ask me about **Career Plans**
-
-- 📫 How to reach me **rubaiyadnoorshahriar@gmail.com**
-
-- ⚡ Fun fact **I watch Anime most of the time 😂**
+<!--img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"><p align="center"-->
+- 🔭 I’m currently working on <strong> my ASP.NET Core skill development </strong> and learning <strong>VueJS and ReactJS </strong><br>
+- 👯 I’m looking to collaborate on <strong>React JS through GitHub</strong><br>
+- 💬 Ask me about <strong>Career Plans</strong><br>
+- 📫 How to reach me <strong>rubaiyadnoorshahriar@gmail.com</strong><br>
+- ⚡ Fun fact <strong>I watch Anime most of the time 😂</strong><br>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=RubaiyadNoorShahriar1999&label=Profile%20views&color=0e75b6&style=flat" alt="RubaiyadNoorShahriar" />
 </p>
 
-<h3>Connect with me:</h3>
-<p align="left"> 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=linkedin,discord,devto" /></p>
+<h3 align="center">Connect with me:</h3>
+<p align="center"> 
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=linkedin,discord,devto,codepen,stackoverflow" /></p>
 
-<h3 align="left">Languages and Frameworks:</h3>
-<div align="left"> 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,js,ts,python,html,css,jquery,bootstrap,sass,vue,react,nodejs,angular,dotnet,mysql,git,github" /></div>
+<h3 align="center">Languages and Frameworks:</h3>
+<p align="center"> 
+<img alt="my skills" style="justify-content:center" src="https://skillicons.dev/icons?theme=light&perline=8&i=c,cpp,cs,js,ts,python,html,css,jquery,bootstrap,sass,vue,react,angular,dotnet,mysql,materialui,azure" /></p>
 
-<h3 align="left" >Tools and IDE:</h3>
-<p align="left"> 
- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,postman,powershell,vscode,visualstudio,atom,figma,linux" />
+<h3 align="center" >Tools and IDE:</h3>
+<p align="center"> 
+ <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,postman,powershell,vscode,visualstudio,atom,figma,linux,git,github" />
 </p>
 
 <div align="center">
