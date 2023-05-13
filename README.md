@@ -19,7 +19,7 @@
 
 <h3>Connect with me:</h3>
 <p align="left"> 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=linkedin,instagram,discord,devto" /></p>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=linkedin,discord,devto" /></p>
 
 <h3 align="left">Languages and Frameworks:</h3>
 <div align="left"> 
