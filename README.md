@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-<h3 align="center">Overview:</h3>
+<!-- <h3 align="center">Overview:</h3> -->
 
 <details>
 <summary><h2><strong>Github Stats<strong></h2> 👩‍💻</summary>
