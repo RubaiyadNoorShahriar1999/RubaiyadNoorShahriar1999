@@ -8,9 +8,9 @@
 - 💬 Ask me about <strong>Career Plans</strong><br>
 - 📫 How to reach me <strong>rubaiyadnoorshahriar@gmail.com</strong><br>
 - ⚡ Fun fact <strong>I watch Anime most of the time 😂</strong><br>
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=RubaiyadNoorShahriar1999&label=Profile%20views&color=0e75b6&style=flat" alt="RubaiyadNoorShahriar" />
-</p>
+</p> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> 
