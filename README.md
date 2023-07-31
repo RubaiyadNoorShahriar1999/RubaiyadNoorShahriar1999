@@ -1,6 +1,6 @@
 ![MasterHead align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">𝙃𝙤𝙡𝙖 𝘼𝙢𝙞𝙜𝙤, 𝙄'𝙢 ✨𝙃𝙍𝙄𝘿𝙊𝙔✨</h1>
-<h3 align="center">-- My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying web development using ASP.NET Core and am keen to learn ReactJS, VueJS, and NodeJS --</h3>
+<h3 align="center">-- My career goals are to work in the fields of software architecture and leading-edge HCI (UI/UX & Cognitive Science) research. I'm studying full stack web development using ASP.NET Core 8, Angular, VueJS and am keen to learn ReactJS, and NodeJS --</h3>
 
 <!--img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"><p align="center"-->
 - 🔭 I’m currently working on <strong> my ASP.NET Core skill development </strong> and learning <strong>VueJS and ReactJS </strong><br>
@@ -26,16 +26,16 @@
 </p>
 
 <div align="center">
-<!-- <h3 align="center">Overview:</h3> -->
 
 <details>
 <summary><h2><strong>Github Stats<strong></h2> 👩‍💻</summary>
 <div align="center">
 <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username= RubaiyadNoorShahriar1999&theme=radical&show_icons=true&locale=en&layout=compact" alt="rubaiyadnoorshahriar1999" width="70%" /> </p>
 </div>
+  
 <div align="center">
 <a href="https://github.com/RubaiyadNoorShahriar1999" align ="left"><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubaiyadNoorShahriar1999&theme=radical"></a>
-<a href="https://github.com/RubaiyadNoorShahriar1999" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<a href="https://github.com/c-onfused69" align ="right"><img width="59%" src="http://github-readme-streak-stats.herokuapp.com/?user=RubaiyadNoorShahriar1999&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&hide_border=true"></a>
 </div>
 </details>
 
