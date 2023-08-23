@@ -22,7 +22,7 @@
 
 <h3 align="center" >Tools and IDE:</h3>
 <p align="center"> 
- <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=docker,postman,azure,firebase,powershell,vscode,visualstudio,atom,figma,linux,git,github" />
+ <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,visualstudio,docker,postman,azure,firebase,powershell,atom,figma,linux,git,github" />
 </p>
 
 <div align="center">
